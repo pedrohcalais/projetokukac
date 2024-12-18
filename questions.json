@@ -1,0 +1,44 @@
+{
+    "questions": [
+        {
+            "question": "Qual é o nome do fundador da Kukac?",
+            "type": "open",
+            "correct_answer": "ROBERTO"
+        },
+        {
+            "question": "Quando foi fundada a plataforma Speck? desenvolvimento da Kukac.",
+            "type": "open",
+            "correct_answer": "2016"
+        },
+        {
+            "question": "Qual a especialidade da Kukac?",
+            "type": "open",
+            "correct_answer": ["Inteligência Artificial", "IA"]
+        },
+        {
+            "question": "Quando foi fundada a Kukac?",
+            "type": "open",
+            "correct_answer": "2015"
+        },
+        {
+            "question": "O que a Kukac valoriza em suas soluções?",
+            "type": "multiple_choice",
+            "options": [
+                "Sustentabilidade e ética",
+                "Redução de custos",
+                "Inovação restrita",
+                "Rápido lucro"
+            ],
+            "correct_answer": "Sustentabilidade e ética"
+        },
+        {
+            "question": "A inteligência artificial é capaz de aprender de forma autônoma sem a intervenção humana.",
+            "type": "true_false",
+            "options": [
+                "Verdadeiro",
+                "Falso"
+            ],
+            "correct_answer": "Verdadeiro"
+        }
+    ]
+}
